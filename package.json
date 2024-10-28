@@ -4,12 +4,18 @@
   "description": "A lightweight JavaScript library for reactivity, statefulness, and DOM rendering.",
   "main": "src/index.js",
   "scripts": {
-    "start": "live-server --open=./examples --port=3000"
+    "dev": "vite",
+    "build": "vite build"
   },
-  "keywords": [],
+  "keywords": [
+    "reactivity",
+    "DOM",
+    "JavaScript",
+    "library"
+  ],
   "author": "Jai Pawar",
   "license": "MIT",
   "devDependencies": {
-    "live-server": "^1.2.1"
+    "vite": "^4.0.0"
   }
 }
