@@ -1,0 +1,15 @@
+{
+  "name": "blipdom",
+  "version": "1.0.0",
+  "description": "A lightweight JavaScript library for reactivity, statefulness, and DOM rendering.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "live-server --open=./examples --port=3000"
+  },
+  "keywords": [],
+  "author": "Jai Pawar",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
