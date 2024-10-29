@@ -1,0 +1,6 @@
+src/
+examples/
+.vite/
+node_modules/
+vite.config.js
+*.test.js

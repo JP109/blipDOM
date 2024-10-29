@@ -2,7 +2,8 @@
   "name": "blipdom",
   "version": "1.0.0",
   "description": "A lightweight JavaScript library for reactivity, statefulness, and DOM rendering.",
-  "main": "src/index.js",
+  "main": "dist/blipdom.cjs.js",
+  "module": "dist/blipdom.esm.js",
   "scripts": {
     "dev": "vite",
     "build": "vite build"

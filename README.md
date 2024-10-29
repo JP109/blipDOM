@@ -17,7 +17,7 @@ This is a lightweight JavaScript library for reactivity, state management, and D
 Install via npm:
 
 ```bash
-npm install blip-dom
+npm install blipdom
 ```
 
 ## Features

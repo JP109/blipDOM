@@ -5,7 +5,7 @@ export default defineConfig({
     lib: {
       entry: "./src/index.js",
       name: "BlipDOM",
-      fileName: (format) => `my-framework.${format}.js`,
+      fileName: (format) => `blipdom.${format}.js`,
     },
     rollupOptions: {
       external: [],
